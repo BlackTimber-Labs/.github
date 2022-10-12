@@ -28,8 +28,8 @@ Join our whatsapp group [here](https://chat.whatsapp.com/CVrBjAtYqxs6d7GFqZmhrR)
 ## ✔️ Code Of Conduct
 Read the code of conduct carefully [here](https://github.com/BlackTimber-Labs/join-us/blob/main/CODE_OF_CONDUCT.md).
 
-## 🌐 Community Website  ![image](https://img.shields.io/badge/website-https%3A%2F%2Fblacktimberlabs.xyz-brightgreen?style=for-the-badge&logo=octocat&logoColor=white)
-Checkout our website [BlackTImber Labs](https://blacktimberlabs.xyz/).
+## 🌐 Community Website  ![image](https://img.shields.io/badge/website-https%3A%2F%2Fblacktimber--labs.github.io%2Fwebsite%2F-brightgreen?style=for-the-badge&logo=octocat&logoColor=white)
+Checkout our website [BlackTImber Labs](https://blacktimber-labs.github.io/website/).
 
 ## #️⃣ Community Official Hashtag
 `#BlackTimberlabs`
